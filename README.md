@@ -14,10 +14,15 @@ MIMO_SHARAP2025/
 ### 1. Установка зависимостей
 ```bash
 git clone https://github.com/vadimpopov1/MIMO_SHARAP2025.git
+```
+```bash
 cd MIMO_SHARAP2025
 ```
 ```bash
 pip install numpy
+```
+```bash
+python3 main.py
 ```
 
 ## 🛠 Технические детали
