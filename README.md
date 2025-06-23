@@ -1,4 +1,4 @@
-MIMO_SHARAP2025/
+MIMO_SHARAP2025/          
 ├── generate_bits.py     # Рандомная генерация битов (0 1), вычисление BER (Bit Error Rate)      
 ├── bpsk.py              # Модулятор и демодулятор BPSK (Binary Phase Shift Keying)      
 ├── generate_channel.py  # Модель канала MIMO и генерация канала Rayleigh fading    
