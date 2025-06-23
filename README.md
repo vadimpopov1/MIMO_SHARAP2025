@@ -1,3 +1,4 @@
+## 📂 Структура кода
 MIMO_SHARAP2025/          
 ├── generate_bits.py     # Рандомная генерация битов (0 1), вычисление BER (Bit Error Rate)      
 ├── bpsk.py              # Модулятор и демодулятор BPSK (Binary Phase Shift Keying)      
@@ -6,4 +7,13 @@ MIMO_SHARAP2025/
 ├── ber_theor.py         # Вычисление теоретических значений BER SISO (Single Input Single Output)      
 └── main.py              # Основная программа запуск и тесты      
 
-<img width="523" src="https://github.com/user-attachments/assets/bb4d18c4-874c-4b2f-a4e7-42c9b3c6ace4" />
+  <img width="523" src="https://github.com/user-attachments/assets/bb4d18c4-874c-4b2f-a4e7-42c9b3c6ace4" />
+
+## 🚀 Быстрый старт
+
+### 1. Установка зависимостей
+```bash
+pip install numpy
+
+## 🛠 Технические детали
+- **Код**: Python (NumPy)  
