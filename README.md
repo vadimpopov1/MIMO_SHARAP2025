@@ -13,7 +13,12 @@ MIMO_SHARAP2025/
 
 ### 1. Установка зависимостей
 ```bash
+git clone https://github.com/vadimpopov1/MIMO_SHARAP2025.git
+cd MIMO_SHARAP2025
+```
+```bash
 pip install numpy
+```
 
 ## 🛠 Технические детали
 - **Код**: Python (NumPy)  
