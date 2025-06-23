@@ -19,7 +19,7 @@ git clone https://github.com/vadimpopov1/MIMO_SHARAP2025.git
 cd MIMO_SHARAP2025
 ```
 ```bash
-pip install numpy
+pip3 install numpy
 ```
 ```bash
 python3 main.py
